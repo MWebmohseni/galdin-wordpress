@@ -17,14 +17,14 @@
   ## 📸 تصاویر پروژه
 
 ### صفحه اصلی
-![صفحه اصلی](images/homepage.png)
+![صفحه اصلی](homepage.png)
 
 ### بخش‌های دیگر
-![نمای 1](images/homepage1.png)
-![نمای 2](images/homepage2.png)
-![نمای 3](images/homepage3.png)
-![نمای 4](images/homepage4.png)
-![نمای 5](images/homepage5.png)
-![نمای 6](images/homepage6.png)
+![نمای 1](homepage1.png)
+![نمای 2](homepage2.png)
+![نمای 3](homepage3.png)
+![نمای 4](homepage4.png)
+![نمای 5](homepage5.png)
+![نمای 6](homepage6.png)
 
 
